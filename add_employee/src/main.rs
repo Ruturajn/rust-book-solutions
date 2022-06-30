@@ -7,7 +7,7 @@
  * @date 2022-06-30
  */
 
-// Use a HashMap that uses the name of the deaprtment as the key, and
+// Use a HashMap that has the name of the department as the key, and
 // the value would be a vector that stores the names of the employees in
 // that department.
 
